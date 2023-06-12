@@ -71,5 +71,4 @@ int main() {
 	cout << "Keliling Bujursangkar = " << obj->keliling(obj->getX()) << endl;
 
 	return 0;
-
 }
